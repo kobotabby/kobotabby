@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kobotabby
-- 👀 I’m interested in ... midjourney art, better call saul, python games, 3d modelling + printing
-- 🌱 I’m currently learning ... html, css, js, and guitar
+- 👀 I’m interested in ... better call saul, python games, 3d modelling
+- 🌱 I’m currently learning ... java and guitar
 - 💞️ I’m looking to collaborate on ... life.
 - 📫 How to reach me ... kobotabby@gmail.com
 
