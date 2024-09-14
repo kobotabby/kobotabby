@@ -1,4 +1,4 @@
- 💞️ I’m looking to collaborate on ... life.
+Waterloo System Design Engineering Student interested in new tech!
 - 📫 How to reach me ... kobotabby@gmail.com
 
 <!---
