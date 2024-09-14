@@ -1,4 +1,4 @@
-Waterloo System Design Engineering Student interested in new tech!
+Waterloo System Design Engineering Student
 - 📫 How to reach me ... kobotabby@gmail.com
 
 <!---
