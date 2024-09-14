@@ -1,5 +1,5 @@
 Waterloo System Design Engineering Student
-- 📫 How to reach me ... kobotabby@gmail.com
+- 📫 How to reach me ... ethanganca@gmail.com
 
 <!---
 kobotabby/kobotabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
