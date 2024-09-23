@@ -1,4 +1,4 @@
-Waterloo System Design Engineering Student
+System Design Engineering Student at the University of Waterloo 🪿
 - 📫 How to reach me ... ethanganca@gmail.com
 
 <!---
