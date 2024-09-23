@@ -1,4 +1,4 @@
-🪿 Welcome! I am Ethan, a System Design Engineering Student at the University of Waterloo. Have fun exploring my projects for awareness or inspiration! 🪿
+🪿 Welcome! I am Ethan, a System Design Engineering Student at the University of Waterloo. Have fun exploring my projects! 🪿
 - 📫 How to reach me ... ethanganca@gmail.com
 
 <!---
