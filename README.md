@@ -1,6 +1,6 @@
 🐓 - Welcome! I'm Ethan, a System Design Engineering Student at the University of Waterloo.                                            
 
-⚒️ - Looking for work during the winter 2025 work term! (January 2025 - April 2025)                                              
+⚒️ - Currently** looking for work** during the **2025 winter work term**! (_January 2025 - April 2025_)                                              
 
 🚀 - How to reach me ... ethanganca@gmail.com                                            
 
