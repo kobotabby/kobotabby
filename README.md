@@ -2,7 +2,7 @@
 
 ⚒️ - Currently **looking for work** during the **2025 winter work term**! (_January 2025 - April 2025_)                                              
 
-🚀 - How to reach me ... ethanganca@gmail.com                                            
+🚀 - How to reach me ... e3gan@uwaterloo.ca
 
 <!---
 kobotabby/kobotabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
