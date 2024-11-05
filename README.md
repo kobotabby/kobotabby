@@ -1,4 +1,4 @@
-👋 - Hello! I'm Ethan, a Systems Design Engineering Student at the University of Waterloo.                                            
+👋 - Hi! I'm Ethan Gan, a Systems Design Engineering Student at the University of Waterloo.                                            
 
 👜 - Currently **looking for work** during the **2025 winter work term**! (_January 2025 - April 2025_)                                              
 
