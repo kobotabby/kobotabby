@@ -1,6 +1,6 @@
 👋 - Hello! I'm Ethan, a Systems Design Engineering Student at the University of Waterloo.                                            
 
-👜 - Currently **looking for work** during the **Fall 2025** work term!                                             
+👜 - Currently **looking for work** during the **Fall 2025 work term**!                                             
 
 🚀 - Contact me at e3gan@uwaterloo.ca
 
